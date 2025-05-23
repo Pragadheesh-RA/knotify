@@ -1,0 +1,23 @@
+@layer components {
+  .card {
+    @apply bg-white rounded-xl shadow-lg p-6;
+    @apply transform transition-all duration-300;
+    @apply hover:shadow-xl hover:-translate-y-1;
+  }
+
+  .input-base {
+    @apply w-full rounded-lg px-4 py-2;
+    @apply border border-gray-200;
+    @apply focus:ring-2 focus:ring-rose-500 focus:border-transparent;
+    @apply transition-all duration-300;
+  }
+
+  .button-primary {
+    @apply bg-gradient-to-r from-rose-500 to-pink-500;
+    @apply text-white font-medium;
+    @apply rounded-lg px-6 py-2;
+    @apply transform transition-all duration-300;
+    @apply hover:from-rose-600 hover:to-pink-600;
+    @apply hover:shadow-lg hover:-translate-y-0.5;
+  }
+}
