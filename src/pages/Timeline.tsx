@@ -7,7 +7,7 @@ export const Timeline: React.FC = () => {
     {
       time: '4:00 PM - 4:45 PM',
       title: 'Ceremony',
-      details: 'Exchange of vows and rings,mattikitae panu,wicket vilum tharunam'
+      details: 'Exchange of vows and rings,mattikitae pangu,wicket vilum tharunam'
     },
     {
       time: '5:00 PM - 6:00 PM',
