@@ -35,8 +35,8 @@ export const MapPreview: React.FC = () => {
           <Popup>
             <div className="text-center">
               <h3 className="font-semibold">Grand Wedding Hall</h3>
-              <p>123 Wedding Street</p>
-              <p>New York, NY 10001</p>
+              <p>NO 7 Dubai main Road</p>
+              <p>Dubai Kuruku sandhu, Dubai 10001</p>
             </div>
           </Popup>
         </Marker>
