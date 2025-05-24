@@ -6,13 +6,13 @@ import { EnhancedContactForm } from './EnhancedContactForm';
 
 export const ContactMapSection: React.FC = () => {
   const quickInfo = [
-    { icon: Calendar, text: 'December 31, 2024', label: 'Wedding Date' },
-    { icon: Clock, text: '4:00 PM Onwards', label: 'Ceremony Time' },
-    { icon: MapPin, text: 'Grand Wedding Hall, NY', label: 'Location' },
-    { icon: Phone, text: '(123) 456-7890', label: 'Contact' },
-    { icon: Mail, text: 'wedding@example.com', label: 'Email' }
+    { icon: Calendar, text: 'December 31, 2025', label: 'Wedding Date' },
+    { icon: Clock, text: '6:30 AM Onwards', label: 'Ceremony Time' },
+    { icon: MapPin, text: 'Grand Wedding Hall, Dubai main Road', label: 'Location' },
+    { icon: Phone, text: '+91 9876543210', label: 'Contact' },
+    { icon: Mail, text: 'wedding@gmail.com', label: 'Email' }
   ];
-
+  
   return (
     <div className="bg-gradient-to-b from-rose-50 to-white py-16">
       <div className="container mx-auto px-4">

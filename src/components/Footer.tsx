@@ -11,8 +11,8 @@ export const Footer: React.FC = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div className="text-center">
             <h4 className="font-serif text-xl mb-4">Contact</h4>
-            <p>Phone: (123) 456-7890</p>
-            <p>Email: wedding@example.com</p>
+            <p>Phone:+91 9876543210</p>
+            <p>Email: wedding@gmail.com</p>
           </div>
           <div className="text-center">
             <h4 className="font-serif text-xl mb-4">Follow Us</h4>
@@ -31,13 +31,13 @@ export const Footer: React.FC = () => {
           <div className="text-center">
             <h4 className="font-serif text-xl mb-4">Venue</h4>
             <p>Grand Wedding Hall</p>
-            <p>123 Wedding Street</p>
-            <p>New York, NY 10001</p>
+            <p>No 7 Dubai main Road</p>
+            <p>Dubai kuruku Sandhu, Dubai 10001</p>
           </div>
         </div>
         <div className="text-center pt-8 border-t border-rose-700">
           <p className="flex items-center justify-center gap-2">
-            <span>© {currentYear} Jane & John's Wedding</span>
+            <span>© {currentYear} Sergio & Raquel's Wedding</span>
             <Heart size={16} className="text-rose-300" />
           </p>
         </div>

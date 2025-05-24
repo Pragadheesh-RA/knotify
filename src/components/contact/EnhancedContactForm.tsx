@@ -46,7 +46,7 @@ Message: ${formData.message}
         `);
 
         // Open email client
-        window.location.href = `mailto:dev@example.com?subject=${subject}&body=${body}`;
+        window.location.href = `mailto:rajakumaran1910@gmail.com?subject=${subject}&body=${body}`;
         
         // Show success message
         setShowSuccess(true);

@@ -17,7 +17,7 @@ export const CoupleSection: React.FC = () => {
               alt="Bride"
               className="w-64 h-64 object-cover rounded-full mx-auto shadow-lg"
             />
-            <h3 className="mt-4 text-2xl font-serif text-rose-600">Jane Doe</h3>
+            <h3 className="mt-4 text-2xl font-serif text-rose-600">Raquel Murillo</h3>
             <p className="text-gray-600">The Bride</p>
           </motion.div>
 
@@ -39,7 +39,7 @@ export const CoupleSection: React.FC = () => {
               alt="Groom"
               className="w-64 h-64 object-cover rounded-full mx-auto shadow-lg"
             />
-            <h3 className="mt-4 text-2xl font-serif text-rose-600">John Doe</h3>
+            <h3 className="mt-4 text-2xl font-serif text-rose-600">Sergio Marquina (The Professor)</h3>
             <p className="text-gray-600">The Groom</p>
           </motion.div>
         </div>

@@ -21,9 +21,9 @@ export const Venue: React.FC = () => {
           <div className="space-y-6">
             <div className="bg-white rounded-lg shadow-lg p-6">
               <h2 className="text-2xl font-serif text-rose-600 mb-4">Location Details</h2>
-              <p className="text-gray-600 mb-2">123 Wedding Street</p>
-              <p className="text-gray-600 mb-2">New York, NY 10001</p>
-              <p className="text-gray-600">United States</p>
+              <p className="text-gray-600 mb-2">No 7 dubai main road</p>
+              <p className="text-gray-600 mb-2">Dubai kuruku sandhu, Dubai 10001</p>
+              <p className="text-gray-600">Dubai</p>
             </div>
 
             <div className="bg-white rounded-lg shadow-lg p-6">

@@ -7,22 +7,22 @@ export const Timeline: React.FC = () => {
     {
       time: '4:00 PM - 4:45 PM',
       title: 'Ceremony',
-      details: 'Exchange of vows and rings'
+      details: 'Exchange of vows and rings,mattikitae panu,wicket vilum tharunam'
     },
     {
       time: '5:00 PM - 6:00 PM',
       title: 'Cocktail Hour',
-      details: 'Enjoy drinks and appetizers while we take photos'
+      details: 'Enjoy drinks and appetizers while we take photos, Drinking is injurious to health '
     },
     {
       time: '6:00 PM - 7:30 PM',
       title: 'Dinner Service',
-      details: 'Elegant plated dinner with wine service'
+      details: 'Elegant plated dinner with wine service,Soru Soru Soru'
     },
     {
       time: '7:30 PM - 11:00 PM',
       title: 'Reception',
-      details: 'Dancing, cake cutting, and celebrations'
+      details: 'Dancing, cake cutting, and celebrations,and Konjam Konjam sights and fights.'
     }
   ];
 

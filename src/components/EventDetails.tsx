@@ -20,7 +20,7 @@ export const EventDetails: React.FC = () => {
           >
             <Calendar className="mx-auto text-rose-600 mb-4" size={32} />
             <h3 className="text-xl font-semibold mb-2">Date</h3>
-            <p className="text-gray-600">December 31, 2024</p>
+            <p className="text-gray-600">December 31, 2025</p>
           </motion.div>
 
           <motion.div 
@@ -30,7 +30,7 @@ export const EventDetails: React.FC = () => {
           >
             <Clock className="mx-auto text-rose-600 mb-4" size={32} />
             <h3 className="text-xl font-semibold mb-2">Time</h3>
-            <p className="text-gray-600">6:00 PM Onwards</p>
+            <p className="text-gray-600">6:30 AM Onwards</p>
           </motion.div>
 
           <motion.div 

@@ -18,7 +18,7 @@ export const ContactSuccess: React.FC<ContactSuccessProps> = ({ onClose }) => {
         <CheckCircle className="mx-auto text-green-500 mb-4" size={48} />
         <h3 className="text-2xl font-playfair text-gray-800 mb-4">Message Sent!</h3>
         <p className="text-gray-600 mb-6">
-          Thank you for your message. We'll get back to you soon!
+          Thank you for your message. We'll get back to you soon,Thagavaal ku nandri...kalambu kathuvaratum!
         </p>
         <motion.button
           whileHover={{ scale: 1.05 }}

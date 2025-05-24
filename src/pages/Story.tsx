@@ -5,9 +5,9 @@ import { Heart } from 'lucide-react';
 export const Story: React.FC = () => {
   const timeline = [
     {
-      date: 'June 2020',
+      date: 'June 2018',
       title: 'First Meeting',
-      description: 'We met at a local coffee shop on a sunny afternoon.'
+      description: 'We met at a local coffee shop on a sunny afternoon while sergio wants to manipulate raquel.'
     },
     {
       date: 'December 2020',

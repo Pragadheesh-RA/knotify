@@ -31,7 +31,7 @@ export const Registry: React.FC = () => {
         <div className="text-center mb-12">
           <Gift className="mx-auto text-rose-600 mb-4" size={48} />
           <h1 className="text-4xl font-serif text-rose-600 mb-4">Gift Registry</h1>
-          <p className="text-gray-600">Your presence is our present, but if you wish to give a gift...</p>
+          <p className="text-gray-600">Your presence is our present, but if you wish to give a gift, Gift koduda venna, mudincha ps5 and remote car...</p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-6">
