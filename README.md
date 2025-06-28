@@ -75,10 +75,10 @@ This elegant, responsive, and romantic experience turns your wedding announcemen
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/knotify-wedding.git
+git clone https://github.com/Pragadheesh-RA/knotify.git
 
 # Navigate to the project
-cd knotify-wedding
+cd knotify
 
 # Install dependencies
 npm install
