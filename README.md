@@ -72,7 +72,7 @@ This elegant, responsive, and romantic experience turns your wedding announcemen
 ---
 
 ## 🔗 Live Demo:
-#rafinity-knotify.netlify.app
+https://rafinity-knotify.netlify.app
 ## 🚀 Getting Started
 
 ```bash
