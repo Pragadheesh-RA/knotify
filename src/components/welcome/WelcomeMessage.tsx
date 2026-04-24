@@ -53,7 +53,7 @@ export const WelcomeMessage: React.FC<WelcomeMessageProps> = ({ guestName }) => 
         Your presence will make our wedding celebration even more memorable.
       </motion.p>
 
-      <WeddingCountdown weddingDate="2025-12-31T16:30:00" />
+      <WeddingCountdown weddingDate="2026-12-31T16:30:00" />
     </motion.div>
   );
 };
