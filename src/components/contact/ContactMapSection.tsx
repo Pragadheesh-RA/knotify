@@ -6,7 +6,7 @@ import { EnhancedContactForm } from './EnhancedContactForm';
 
 export const ContactMapSection: React.FC = () => {
   const quickInfo = [
-    { icon: Calendar, text: 'December 31, 2025', label: 'Wedding Date' },
+    { icon: Calendar, text: 'December 31, 2026', label: 'Wedding Date' },
     { icon: Clock, text: '6:30 AM Onwards', label: 'Ceremony Time' },
     { icon: MapPin, text: 'Grand Wedding Hall, Dubai main Road', label: 'Location' },
     { icon: Phone, text: '+91 9876543210', label: 'Contact' },
